@@ -1,6 +1,6 @@
 # Prisma-Basic
 
-Prisma-Basic is a Node.js project demonstrating basic CRUD (Create, Read, Update, Delete) operations using the Prisma ORM for Node.js.
+Prisma-Basic is a Node.js project demonstrating basic CRUD (Create, Read, Update, Delete) operations using the Prisma ORM for Node.js
 
 ## Installation
 
